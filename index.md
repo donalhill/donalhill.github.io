@@ -6,13 +6,13 @@
 
 <img src="images/DstDsst_Fit.png?raw=true" width="500"/>
 
-[Data analysis (particle physics)](https://github.com/donalrinho/Bc2JpsiMuNu)
+[Data analysis in particle physics (GitHub hosting Colab notebooks)](https://github.com/donalrinho/Bc2JpsiMuNu)
 
 
 ---
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[Project 1 Title](/sample_page)
+[Machine learning](/sample_page)
 
 ---
 <img src="images/Donal_Hill_FameLab.jpeg?raw=true" width="500"/>
@@ -24,8 +24,7 @@
 
 ### Links
 
-- [Future Circular Collider feasibility study (GitHub)](https://github.com/HEP-FCC/FCCeePhysicsPerformance/tree/master/case-studies/flavour/Bc2TauNu)
+- [CERN Future Circular Collider feasibility study (GitHub)](https://github.com/HEP-FCC/FCCeePhysicsPerformance/tree/master/case-studies/flavour/Bc2TauNu)
+- [Matter-antimatter data analysis on the LHCb experiment (paper on arXiv)](https://arxiv.org/abs/2012.09903)
 - [FameLab International Final (public speaking)](https://www.youtube.com/watch?v=hCm-Z0I392M)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
