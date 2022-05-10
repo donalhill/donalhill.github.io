@@ -12,7 +12,8 @@
 ---
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[Machine learning](/sample_page)
+[Machine learning (NLP for classifying sentences in paper abstracts)](/sample_page)
+
 
 ---
 <img src="images/Donal_Hill_FameLab.jpeg?raw=true" width="500"/>
