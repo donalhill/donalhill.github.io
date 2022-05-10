@@ -4,7 +4,7 @@
 
 ### Examples
 
-[Particle Physics](https://github.com/donalrinho/Bc2JpsiMuNu)
+[Data analysis (particle physics)](https://github.com/donalrinho/Bc2JpsiMuNu)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -12,8 +12,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Public speaking (University of Oxford Thinking 3D Exhibition)](https://podcasts.ox.ac.uk/particles-space)
+<img src="images/Donal_Hill_FameLab.jpeg?raw=true"/>
 
 ---
 
