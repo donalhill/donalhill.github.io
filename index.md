@@ -4,19 +4,19 @@
 
 ### Examples
 
-<img src="images/DstDsst_Fit.png?raw=true" width="500"/>
+<img src="images/DstDsst_Fit.png?raw=true" width="300"/>
 
 [Data analysis in particle physics (GitHub-hosted Colab notebooks)](https://github.com/donalrinho/Bc2JpsiMuNu)
 
 
 ---
-<img src="images/Natural-Language-Processing-NLP-AI.jpeg?raw=true" width="500"/>
+<img src="images/Natural-Language-Processing-NLP-AI.jpeg?raw=true" width="300"/>
 
 [Machine learning (NLP for classifying sentences in paper abstracts)](/sample_page)
 
 
 ---
-<img src="images/Donal_Hill_FameLab.jpeg?raw=true" width="500"/>
+<img src="images/Donal_Hill_FameLab.jpeg?raw=true" width="300"/>
 
 [Public speaking (University of Oxford Thinking 3D Exhibition)](https://podcasts.ox.ac.uk/particles-space)
 
