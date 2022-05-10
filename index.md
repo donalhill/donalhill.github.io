@@ -25,6 +25,6 @@
 ### Links
 
 - [CERN Future Circular Collider feasibility study (GitHub)](https://github.com/HEP-FCC/FCCeePhysicsPerformance/tree/master/case-studies/flavour/Bc2TauNu)
-- [Matter-antimatter data analysis on the LHCb experiment (paper on arXiv)](https://arxiv.org/abs/2012.09903)
+- [Data analysis on the LHCb experiment (paper on arXiv)](https://arxiv.org/abs/2012.09903)
 - [FameLab International Final (public speaking)](https://www.youtube.com/watch?v=hCm-Z0I392M)
 
