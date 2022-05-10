@@ -4,12 +4,15 @@
 
 ### Examples
 
-[Data analysis (particle physics)](https://github.com/donalrinho/Bc2JpsiMuNu)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+[Data analysis (particle physics)](https://github.com/donalrinho/Bc2JpsiMuNu)
+
+
 ---
-[Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Project 1 Title](/sample_page)
 
 ---
 <img src="images/Donal_Hill_FameLab.jpeg?raw=true"/>
