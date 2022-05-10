@@ -6,7 +6,7 @@
 
 <img src="images/DstDsst_Fit.png?raw=true" width="500"/>
 
-[Data analysis in particle physics (GitHub hosting Colab notebooks)](https://github.com/donalrinho/Bc2JpsiMuNu)
+[Data analysis in particle physics (GitHub-hosted Colab notebooks)](https://github.com/donalrinho/Bc2JpsiMuNu)
 
 
 ---
