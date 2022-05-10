@@ -1,31 +1,7 @@
-## This can be your internal website page / project page
+## Machine learning
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+During my physics career at CERN, I have applied machine learning methods extensively in data selection and processing tasks. My work has included the use of XGBoost for signal selection (binary classification), and the determination of decay kinematics in cases where not all particles are reconstructed (regression). As co-founder of the environmental start-up [Plastic-i Ltd](https://www.plastic-i.com/), I have also begun exploring the use of computer vision methods for detecting ocean plastics with satellite imagery. 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+Machine learning continues to find applications across a wide range of academic and industrial fields, thanks to the explosion in big data, the availability of affordable cloud computing resources, and the development of cutting-edge open-source software such as TensorFlow and Keras. Deep learning in particular is enjoying a prolific period of growth, with the advent of models such as [DALL·E 2](https://openai.com/dall-e-2/) for image generation from text captions, and ever-improving libraries of powerful [pre-trained models](https://huggingface.co/).
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+In this [notebook](https://guides.github.com/features/mastering-markdown/), I explore the application of NLP models in Keras, as I aim to replicate the 2017 paper [PubMed 200k RCT: a Dataset for Sequenctial Sentence Classification in Medical Abstracts](https://arxiv.org/abs/1710.06071).
