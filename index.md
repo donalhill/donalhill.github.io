@@ -12,8 +12,10 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Public speaking (University of Oxford Thinking 3D Exhibition)](https://podcasts.ox.ac.uk/particles-space)
 <img src="images/Donal_Hill_FameLab.jpeg?raw=true"/>
+
+[Public speaking (University of Oxford Thinking 3D Exhibition)](https://podcasts.ox.ac.uk/particles-space)
+
 
 ---
 
