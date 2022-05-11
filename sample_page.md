@@ -6,4 +6,4 @@ Machine learning continues to find applications across a wide range of academic 
 
 ### NLP for classifying sentences in paper abstracts
 
-In this [notebook](https://guides.github.com/features/mastering-markdown/), I explore the application of Natural Language Processing models in Keras, as I aim to replicate the 2017 paper [PubMed 200k RCT: a Dataset for Sequenctial Sentence Classification in Medical Abstracts](https://arxiv.org/abs/1710.06071).
+In this [notebook](https://github.com/donalhill/portfolio-projects/blob/main/NLP_PubMed.ipynb), I explore the application of Natural Language Processing models in Keras, as I aim to replicate the 2017 paper [PubMed 200k RCT: a Dataset for Sequenctial Sentence Classification in Medical Abstracts](https://arxiv.org/abs/1710.06071).
