@@ -12,7 +12,7 @@
 ---
 <img src="images/Natural-Language-Processing-NLP-AI.jpeg?raw=true" width="300"/>
 
-[Machine learning (NLP for classifying sentences in paper abstracts)](/sample_page)
+[Machine learning](/sample_page)
 
 
 ---
