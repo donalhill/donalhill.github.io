@@ -10,7 +10,7 @@
 
 
 ---
-<img src="images/Natural-Language-Processing-NLP-AI.jpeg?raw=true" width="300"/>
+<img src="images/neural_network.png?raw=true" width="300"/>
 
 [Machine learning](/sample_page)
 
