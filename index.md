@@ -4,15 +4,16 @@
 
 ### Examples
 
-<img src="images/DstDsst_Fit.png?raw=true" width="300"/>
 
-[Data analysis in particle physics (GitHub-hosted Colab notebooks)](https://github.com/donalrinho/Bc2JpsiMuNu)
-
-
----
 <img src="images/neural_network.png?raw=true" width="300"/>
 
 [Machine learning](/ml)
+
+
+---
+<img src="images/DstDsst_Fit.png?raw=true" width="300"/>
+
+[Data analysis in particle physics (GitHub-hosted Colab notebooks)](https://github.com/donalrinho/Bc2JpsiMuNu)
 
 
 ---
