@@ -12,7 +12,7 @@
 ---
 <img src="images/neural_network.png?raw=true" width="300"/>
 
-[Machine learning](/sample_page)
+[Machine learning](/ml)
 
 
 ---
