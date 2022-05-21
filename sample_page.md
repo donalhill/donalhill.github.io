@@ -7,3 +7,7 @@ Machine learning continues to find applications across a wide range of academic 
 ### NLP for classifying sentences in paper abstracts
 
 In this [notebook](https://github.com/donalhill/portfolio-projects/blob/main/NLP_PubMed.ipynb), I explore the application of Natural Language Processing models in Keras, as I aim to replicate the 2017 paper [PubMed 200k RCT: a Dataset for Sequenctial Sentence Classification in Medical Abstracts](https://arxiv.org/abs/1710.06071).
+
+### U-Net CNN for segmentation of cells in microscope images
+
+In this [notebook](https://github.com/donalhill/portfolio-projects/blob/main/cell_segmentation.ipynb), I apply a U-Net Convolutional Neural Network (CNN) to the task of classifying cells in microscope slide images. U-Net models are designed for semantic segmentation, where every pixel in an image is assigned a class prediction. In this case, we are dealing with a binary classification problem: does a pixel belong to a cell or not?
