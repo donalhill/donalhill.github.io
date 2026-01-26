@@ -8,7 +8,7 @@
 
 [xG Model Dashboard - La Liga 2015/16 (Live App)](https://xg-model-statsbomb.onrender.com)
 
-Built an Expected Goals (xG) model using StatsBomb open data. XGBoost with isotonic calibration, SHAP explainability, and interactive Dash visualizations. [Source code](https://github.com/donalhill/xg_model_statsbomb)
+Built an Expected Goals (xG) model using StatsBomb open data. XGBoost with isotonic calibration, SHAP explainability, and interactive Dash visualisations. [Source code](https://github.com/donalhill/xg_model_statsbomb)
 
 ---
 
