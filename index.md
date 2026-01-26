@@ -4,6 +4,13 @@
 
 ### Examples
 
+<img src="images/xg_dashboard.png?raw=true" width="300"/>
+
+[xG Model Dashboard - La Liga 2015/16 (Live App)](https://xg-model-statsbomb.onrender.com)
+
+Built an Expected Goals (xG) model using StatsBomb open data. XGBoost with isotonic calibration, SHAP explainability, and interactive Dash visualizations. [Source code](https://github.com/donalhill/xg_model_statsbomb)
+
+---
 
 <img src="images/neural_network.png?raw=true" width="300"/>
 
