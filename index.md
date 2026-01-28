@@ -4,19 +4,19 @@
 
 ### Examples
 
-<img src="images/xg_dashboard.png?raw=true" width="300"/>
-
-[xG Model Dashboard - La Liga 2015/16 (Live App)](https://xg-model-statsbomb.onrender.com)
-
-Built an Expected Goals (xG) model using StatsBomb open data. XGBoost with isotonic calibration, SHAP explainability, and interactive Dash visualisations. [Source code](https://github.com/donalhill/xg_model_statsbomb)
-
----
-
 <img src="images/pitch_control.png?raw=true" width="300"/>
 
 [Pitch Control & OBSO Dashboard - Metrica Sample Data (Live App)](https://pitch-control.onrender.com)
 
 Implementation of Spearman's (2018) Off-Ball Scoring Opportunity model. Visualises pitch control decomposition into transition, control, and scoring probability surfaces. [Source code](https://github.com/donalhill/pitch-control)
+
+---
+
+<img src="images/xg_dashboard.png?raw=true" width="300"/>
+
+[xG Model Dashboard - La Liga 2015/16 (Live App)](https://xg-model-statsbomb.onrender.com)
+
+Built an Expected Goals (xG) model using StatsBomb open data. XGBoost with isotonic calibration, SHAP explainability, and interactive Dash visualisations. [Source code](https://github.com/donalhill/xg_model_statsbomb)
 
 ---
 
