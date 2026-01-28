@@ -12,6 +12,14 @@ Built an Expected Goals (xG) model using StatsBomb open data. XGBoost with isoto
 
 ---
 
+<img src="images/pitch_control.png?raw=true" width="300"/>
+
+[Pitch Control & OBSO Dashboard - Metrica Sample Data (Live App)](https://pitch-control.onrender.com)
+
+Implementation of Spearman's (2018) Off-Ball Scoring Opportunity model. Visualises pitch control decomposition into transition, control, and scoring probability surfaces. [Source code](https://github.com/donalhill/pitch-control)
+
+---
+
 <img src="images/neural_network.png?raw=true" width="300"/>
 
 [Machine learning](/ml)
