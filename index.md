@@ -14,7 +14,7 @@ Implementation of Spearman's (2018) Off-Ball Scoring Opportunity model. Visualis
 
 <img src="images/xg_dashboard.png?raw=true" width="300"/>
 
-[xG Model Dashboard - La Liga 2015/16 (Live App)](https://xg-model-statsbomb.onrender.com)
+[xG Model Dashboard - La Liga 2015/16 (Live App)](https://xg-model-statsbomb-gfcq.onrender.com)
 
 Built an Expected Goals (xG) model using StatsBomb open data. XGBoost with isotonic calibration, SHAP explainability, and interactive Dash visualisations. [Source code](https://github.com/donalhill/xg_model_statsbomb)
 
