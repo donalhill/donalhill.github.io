@@ -4,6 +4,14 @@
 
 ### Examples
 
+<img src="images/sargassum_demo.png?raw=true" width="300"/>
+
+[Sargassum Coastal Exposure Forecast — Barbados (Live App)](https://sargassum-demo.onrender.com)
+
+Monte Carlo particle transport model for predicting sargassum washup probability along the Barbados coastline. 10,000 virtual rafts are advected using RK4 Lagrangian integration with synthetic ocean currents and wind forcing. Interactive Dash app with satellite imagery, magma-colored coastal risk heatmap, and polar washup profile chart. [Source code](https://github.com/donalhill/sargassum-washin-model)
+
+---
+
 <img src="images/pitch_control.png?raw=true" width="300"/>
 
 [Pitch Control & OBSO Dashboard - Metrica Sample Data (Live App)](https://pitch-control.onrender.com)
