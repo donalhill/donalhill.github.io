@@ -8,7 +8,7 @@
 
 [Sargassum Coastal Exposure Forecast — Barbados (Live App)](https://sargassum-demo.onrender.com)
 
-Monte Carlo particle transport model for predicting sargassum washup probability along the Barbados coastline. 10,000 virtual rafts are advected using RK4 Lagrangian integration with synthetic ocean currents and wind forcing. Interactive Dash app with satellite imagery, magma-colored coastal risk heatmap, and polar washup profile chart. [Source code](https://github.com/donalhill/sargassum-washin-model)
+Lagrangian particle model forecasting sargassum washup probability around Barbados. 10,000 virtual rafts advected with RK4 integration through synthetic ocean currents and wind fields. Interactive Dash app with coastal risk heatmap and polar exposure profile. [Source code](https://github.com/donalhill/sargassum-washin-model)
 
 ---
 
