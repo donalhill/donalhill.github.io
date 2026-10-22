@@ -8,15 +8,7 @@
 
 [Examining the evidence for glints from orbit in 1950s sky photographs](https://donalhill.github.io/poss-transients/)
 
-An independent re-analysis of the VASCO project's claims about transients on 1950s Palomar Sky Survey plates: fewer inside Earth's shadow, more near nuclear weapons tests, and some lying in straight lines. Every number on the page comes from a reproducible pipeline built on the public catalogue, with chance measured against the data itself rather than counting statistics. [Source code](https://github.com/donalhill/poss-transients)
-
----
-
-<img src="images/sargassum_demo.png?raw=true" width="300"/>
-
-[Sargassum Coastal Exposure Forecast — Barbados (Live App)](https://sargassum-demo.onrender.com)
-
-Lagrangian particle model forecasting sargassum washup probability around Barbados. 10,000 virtual rafts advected with RK4 integration through synthetic ocean currents and wind fields. Interactive Dash app with coastal risk heatmap and polar exposure profile. [Source code](https://github.com/donalhill/sargassum-washin-model)
+An independent, fully reproducible re-analysis of the VASCO project's claims about transients on 1950s Palomar Sky Survey plates. [Source code](https://github.com/donalhill/poss-transients)
 
 ---
 
